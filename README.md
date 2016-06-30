@@ -1,6 +1,6 @@
 # Iterables and Iterators
 
-This repository records the materials associated with a talk given at PyData London 2016.
+This repository records the materials associated with [a talk given at PyData London 2016](https://www.youtube.com/watch?v=iTwrF1DofCY).
 
 The slides are available both in their original PowerPoint format and in PDF.
 
